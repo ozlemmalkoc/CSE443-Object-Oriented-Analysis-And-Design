@@ -38,10 +38,11 @@ build/
 **/mvnw
 **/mvnw.cmd
 
-# Frontend için (İleride lazım olacak)
-**/node_modules/
-**/dist/
-**/.env
+# Frontend (Gelecek için hazırlık)
+frontend/node_modules/
+frontend/dist/
+frontend/build/
+frontend/.env
 
 # Database Dump (Sadece .sql uzantılı dosyalar gitsin, sıkıştırılmış yedekler gitmesin diye)
 *.dump
