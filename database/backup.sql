@@ -144,7 +144,7 @@ ALTER TABLE ONLY public.books
 --
 -- TOC entry 4864 (class 2606 OID 24605)
 -- Name: movies movies_pkey; Type: CONSTRAINT; Schema: public; Owner: postgres
---
+-- Özlem buradauydı.sonunda pushlşadım
 
 ALTER TABLE ONLY public.movies
     ADD CONSTRAINT movies_pkey PRIMARY KEY (id);
